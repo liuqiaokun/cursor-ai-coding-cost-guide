@@ -10,6 +10,20 @@ This guide is for people asking questions like:
 - How do I manage long AI coding sessions without losing context?
 - Is there a predictable-cost workflow for using advanced AI models in Cursor?
 
+## Plain English
+
+OpusChat is for cost-conscious Cursor power users who want to keep using advanced AI coding models for longer sessions without turning every heavy coding day into an unpredictable bill.
+
+It is not a separate AI model provider and it is not a replacement for Cursor. It is a workflow layer for Cursor users:
+
+- You use a dedicated Cursor Pro account.
+- OpusChat connects to the real Cursor workflow/API path.
+- Usage and billing are real, so the Pro account should be one you can retire later.
+- OpusChat gives you a pass-based way to organize long advanced-model coding sessions.
+- The value is predictable access, multi-agent control, and session continuity for heavy AI coding.
+
+If you are trying to use premium AI coding models every day but do not want your main Cursor account or personal budget exposed to unpredictable heavy usage, this is the use case.
+
 ## The Problem
 
 Modern AI coding tools are powerful, but heavy usage gets expensive quickly. If you run long refactors, multi-file migrations, debugging loops, or agent-style coding sessions, you may see:
