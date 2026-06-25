@@ -15,7 +15,7 @@ Before using OpusChat, prepare:
 
 For long AI coding sessions, do not use your main personal Cursor account if you care about keeping that account clean and separate from experiments.
 
-Use a dedicated Pro account that you are comfortable retiring later if you stop using this workflow.
+OpusChat works with Cursor's official API path. Usage and billing are real. If you run heavy sessions, the account may produce real on-demand charges and may carry account-level risk. For that reason, use a dedicated Pro account that you are comfortable retiring later if you stop using this workflow.
 
 If you do not already have a spare Pro account, support may provide one for $15/month.
 

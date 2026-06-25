@@ -59,7 +59,7 @@ Useful when you:
 - Need a workflow that is easier to resume after interruptions.
 - Prefer day/week/month passes over unpredictable usage.
 
-Before starting, prepare a dedicated Cursor Pro account for heavy AI coding sessions. Do not use your main personal account if you want to keep experiments separate. If you do not have a spare Pro account, support may provide one for $15/month.
+Before starting, prepare a dedicated Cursor Pro account for heavy AI coding sessions. OpusChat works with Cursor's official API path, and usage/billing is real. Heavy long-session usage may create real on-demand charges or account risk, so do not use a Pro account that you still depend on for normal daily work. If you do not have a spare Pro account, support may provide one for $15/month.
 
 Pricing:
 

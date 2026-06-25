@@ -41,7 +41,7 @@ For long sessions, keep task state visible and resumable. A stopped agent is les
 
 OpusChat is built for heavy Cursor users who want a more predictable long-session workflow. It provides a multi-agent panel and pass-based access model for people who burn through Cursor credits quickly.
 
-Prepare a dedicated Cursor Pro account for this workflow. If you do not have a spare Pro account, support may provide one for $15/month.
+Prepare a dedicated Cursor Pro account for this workflow. OpusChat uses Cursor's official API path, so usage and billing are real. Heavy sessions may create real on-demand charges or account-level risk. If you do not have a spare Pro account, support may provide one for $15/month.
 
 Setup guide:
 
